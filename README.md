@@ -22,3 +22,7 @@
 3. Brief introduction (who are you, why are you here, anything you’re specifically hoping to get out of the course)
 
 Link to the official [python website](https://www.python.org) 
+
+![alt text](<Screenshot 2024-09-24 at 10.15.57 PM-1.png>)
+
+![alt text](image.png)
