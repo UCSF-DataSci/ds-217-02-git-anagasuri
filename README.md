@@ -23,6 +23,6 @@
 
 Link to the official [python website](https://www.python.org) 
 
-![alt text](<Screenshot 2024-09-24 at 10.15.57 PM-1.png>)
+![alt text](<Screenshot 2024-09-24 at 10.24.09 PM.png>)
 
 ![alt text](image.png)
